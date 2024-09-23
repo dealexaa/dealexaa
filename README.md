@@ -1,4 +1,4 @@
-![MasterHead](gambar1.jpg)
+<source align="center" alt="Coding" width="200" src="gambar1.mp4" type="video/mp4">
 <h1 align="center">Hi 👋, I'm dealexaa</h1>
 <h3 align="center">A student from padang</h3>
 <img align="right" alt="Coding" width="200" src="gambar2.jpg">
