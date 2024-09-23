@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="400" src="gambar1.jpg">
+<img align="center" alt="Coding" width="1000" height="300" src="gambar1.jpg">
 <h1 align="center">Hi 👋, I'm dealexaa</h1>
 <h3 align="center">A student from padang</h3>
 <img align="right" alt="Coding" width="200" src="gambar2.jpg">
@@ -7,7 +7,7 @@
 <h3 align="left">ABOUT ME</h3>
 <p align="left">Name : Dealexa Fatika Dzikra</p>
 <p align="left">NIM  : 24343031</p>
-<p align="left">Majoring in informatic</p>
+<p align="left">Majoring in computer science</p>
 
 - 📚I am a student from **Padang State University**
 
