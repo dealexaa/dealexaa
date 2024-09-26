@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" height="200" src="gambar1.jpg">
 <h1 align="center">Hi 👋, I'm dealexaa</h1>
 <h3 align="center">A student from padang</h3>
-<img align="right" alt="Coding" width="200" src="gambar2.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealexaa&label=Profile%20views&color=0e75b6&style=flat" alt="dealexaa" /> </p>
 <h3 align="left">ABOUT ME</h3>
